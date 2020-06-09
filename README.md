@@ -9,9 +9,9 @@
 
 Regression analysis in general are methods used for prediction.
 
-#### Linear regression shows a linear approximation of a relationship between two (or more) variables.
+- Linear regression shows a linear approximation of a relationship between two (or more) variables.
 
-#### Logistic regression is useful when we want to predict the probability of certain event with data
+- Logistic regression is useful when we want to predict the probability of certain event with data
 that can give possible categorical outcome (not numerical), for example:
  - yes / no
  - will buy / won’t buy
