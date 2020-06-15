@@ -140,7 +140,7 @@ We watch at the summary in the same way. Now model is significant.
 The next table is coefficient table:
 Mathematically logit model for our data is:
 
-![equation](http://www.sciweavers.org/upload/Tex2Img_1591743116/render.png)
+![equation](http://www.sciweavers.org/upload/Tex2Img_1592231504/render.png)
 
 ![equation](http://www.sciweavers.org/upload/Tex2Img_1591743185/render.png)—> probability of event occurring
 
